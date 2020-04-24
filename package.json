@@ -1,0 +1,27 @@
+{
+  "name": "anak-dapur",
+  "version": "1.0.0",
+  "description": "Anak Dapur situs resep terbaik didunia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idnasirasira/anak-dapur.git"
+  },
+  "keywords": [
+    "Anak",
+    "Dapur",
+    "Resep"
+  ],
+  "author": "Aris Arisandi (idnasirasira)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idnasirasira/anak-dapur/issues"
+  },
+  "homepage": "https://github.com/idnasirasira/anak-dapur#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
